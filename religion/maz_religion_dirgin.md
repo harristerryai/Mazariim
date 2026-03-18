@@ -1,0 +1,60 @@
+# Dirgin, The Stone Father
+
+**Portfolio:** Earth, caves, stone, gemstones, miners  
+**Power Level:** Greater Entity (Old God)  
+**Title:** The Stone Father, Lord of the Deep  
+**Dominion:** Plane of Earth  
+**Alignment:** Neutral (N)  
+**Symbol:** Mountain with a hammer striking its peak  
+**Favored Weapon:** Warhammer  
+**Worshipers:** Dwarves, gnomes, miners, earth elementalists, delvers  
+**Favored Race:** None (predates racial distinctions)  
+**Foci:** Worships Forge, Worships Strength, Worships Earth (Elementals)
+
+---
+
+## General Overview
+
+Dirgin is one of the ancient Old Gods, an elemental power born from the primal forces that shaped Mazariim. Where newer deities think and feel, Dirgin *is*—a vast, incomprehensible consciousness woven into the bedrock of the world itself. To commune with Dirgin is to press one's mind against the weight of mountains, to hear the slow grinding of tectonic plates, to feel the patient accumulation of stone over eons.
+
+Unlike patron deities who guide their faithful with clear doctrine, Dirgin's relationship with worshipers is transactional and primal. Offerings of gemstones vanish into deep caves. Prayers whispered into cracks in the earth are answered with tremors, the opening of new veins of ore, or—rarely—the appearance of earth elementals who serve the supplicant briefly before returning to stone.
+
+Dirgin's clergy are fewer now than in ages past. The rise of Mordrion among dwarves has eclipsed the Stone Father's worship in most underground kingdoms, though some traditionalist holds still maintain Dirgin's ancient temples deep beneath the mountains. Gnomish communities, particularly those dwelling in cavern systems, honor Dirgin alongside Rivoleen, seeing no contradiction in revering both innovation and the eternal stone.
+
+Dirgin rarely manifests. When it does, witnesses describe a figure of living rock and crystal, its form shifting between humanoid and abstract geological formations. Some say its face is a cave mouth that breathes dust and precious metals. Others claim to see only shadow and weight, a presence that makes the ground beneath their feet feel suddenly fragile.
+
+## Holy Days
+
+Dirgin's holy observances are not fixed calendar dates but geological events that occur according to the earth's own rhythms. The **Tremor Vigil** takes place when significant earthquakes occur, prompting Stonekeepers to gather at sacred sites to interpret Dirgin's message through these unpredictable events, which are treated as opportunities for divination. The **Crystal Bloom** varies by location and happens in certain deep caves where crystal formations grow visibly over the course of a single night once per century, drawing Stonekeepers on pilgrimage to witness these bloomings, which are considered Dirgin's most direct communication with the surface world.
+
+The one fixed holy day is **Deepdelve**, celebrated on the thirtieth of Iquin (September 30), marking the autumn equinox when miners traditionally stop extending tunnels for winter and focus on reinforcing existing excavations. During Deepdelve, Stonekeepers bless support pillars and seal dangerous passages while miners leave their finest gemstones in shrine-caves as thanks for safe delving. The **Sealing of Sorrows** is a somber observance that occurs when a mine disaster kills workers, at which time Stonekeepers perform a ritual collapse of the affected area, returning the dead to Dirgin's keeping and consecrating the sealed cavern as sacred ground that must never be re-excavated.
+
+## Clergy & Temples
+
+Dirgin's priests are called **Stonekeepers** (known as *Dul'khan* in Dwarvish and *Rek'gend* in Gnomish), ascetics who spend years underground learning to sense the earth's subtle movements. Most are earth elementalists, geomancers, or clerics who have received visions in deep meditation within caverns. Unlike the organized hierarchies of newer faiths, Stonekeepers operate independently, each tending to a particular sacred site—a deep mine, a crystal cave, a fault line where the earth speaks most clearly.
+
+Stonekeepers wear unadorned robes of gray or brown, often incorporating actual stone into their garments—a cloak lined with slate, a belt of polished river rocks, a crown of raw gemstones. Senior Stonekeepers bear hammers blessed in Dirgin's name, used both as weapons and ritual tools for consecrating new mines or sealing dangerous caverns.
+
+The Stonekeepers practice three primary rituals in service to Dirgin. **The Opening** takes place before breaking new ground in any mine or excavation, where miners perform a brief ceremony offering gemstones or precious metals to Dirgin, asking permission to delve deeper into his domain. **The Weighing** involves Stonekeepers meditating for days in complete darkness deep underground, emerging with prophetic knowledge of ore veins, fault lines, or approaching earthquakes. **The Sealing** occurs when a mine becomes too dangerous or a passage leads to forbidden depths, at which point Stonekeepers perform a ritual collapse, returning the stone to Dirgin's eternal keeping.
+
+Dirgin's temples are never built—they are found. Natural caverns with exceptional acoustics, caves where crystals grow in geometric perfection, or chambers deep beneath mountains where the stone itself seems to pulse with slow life. These sites are marked with the symbol of Dirgin (mountain and hammer) carved into living rock. The most famous temple is **The Fundament**, a vast cavern system beneath the Stonetooth Mountains, where dwarven Stonekeepers have maintained vigil for over 15,000 years. The walls are covered in geological records carved by countless generations, creating a stone library of the earth's history. Smaller shrines exist throughout mining communities—simple alcoves where workers leave offerings before a shift, hoping for Dirgin's protection against cave-ins and dangerous gases.
+
+## Dogma
+
+Dirgin's teachings are not written but transmitted through experience and oral tradition among Stonekeepers. The first principle teaches that the **Earth Endures**—all things return to stone, empires crumble while mountains rise, and patience and endurance outlast passion and ambition. Stonekeepers learn to **Respect the Depths**, understanding that the deep places of the world are sacred and must be approached with purpose, taking only what is needed and sealing what should not be disturbed. They seek **Strength Through Foundation**, recognizing that like a mountain's roots, true power comes from stability and groundedness, building lives on solid stone rather than shifting sand. The doctrine holds that the **Stone Remembers**—every rock, every gemstone, every grain of sand carries the memory of ages, and the faithful must learn to listen to what the earth tells them. Finally, Stonekeepers must **Balance Load and Support**, taking from the earth but giving back, mining ore while shoring up tunnels, digging deep while leaving pillars, knowing that exploitation without stewardship invites collapse.
+
+## Mythology
+
+In the beginning—before elves walked forests, before dragons soared—there was only molten chaos. From that chaos, consciousness emerged: vast, slow, patient. Dirgin was not born but *condensed*, like pressure turning carbon to diamond over eons. As Mazariim's mantle cooled and continents formed, Dirgin's awareness spread through every layer of rock, every vein of ore, every crystal cave. For two billion years, Dirgin existed without worshipers, without temples, without purpose beyond *being*. Mau the Oracle observed from the Astral Sea. The elemental planes took shape. But Dirgin needed nothing—it was complete, eternal, patient.
+
+When primitive dwarves and gnomes first sheltered in caves around 25,000 BW, they felt something vast and ancient watching from the stone around them. They left offerings: polished rocks, bones, crude tools. And for the first time, Dirgin *noticed*. Not with thought or emotion, but with a shift in its vast consciousness—like a mountain becoming aware of lichen growing on its slopes. Those early offerings awakened a transactional relationship. Dirgin did not love its worshipers or guide them morally—it simply responded. Cave-ins spared those who made offerings. New ore veins opened near shrine-caves. Earth elementals rose to defend sacred sites.
+
+For thousands of years between 10,000 and 2,000 BW, Dirgin was the primary deity of underground-dwelling peoples. Dwarven clans offered gemstones before major excavations. Gnomish delvers whispered prayers when tunneling through unstable rock. The Stonekeepers became crucial to mining communities, their geomantic sense preventing disasters and locating precious resources. Around 5,000 BW, a council of Stonekeepers formalized what became known as the **Dirgin Pact**—a set of mining practices that balanced extraction with preservation. These principles spread throughout dwarven holds and are still observed, though often attributed to Mordrion in modern times.
+
+When Mordrion the Dwarf Father arrived from Oerth in 1866 BW, everything changed. Mordrion was not an elemental force but a *person*—a deity who spoke, who cared, who actively guided his people. Dwarves found Mordrion's clear doctrine and emotional connection far more satisfying than Dirgin's alien silence. Within centuries, most dwarven temples were rededicated to Mordrion. The Day of Unity (1849 BW) became a celebration of Mordrion, not Dirgin. Many dwarves born after the War to End All Wars have never heard of the Stone Father.
+
+Yet Dirgin endures. The Old God neither grieves nor rages at this eclipse—it simply *is*, as patient as bedrock, waiting with the certainty of mountains. Those who delve deepest—past the worked tunnels of Mordrion's faithful, into the primal darkness where the earth itself breathes—still find Dirgin's shrines, still feel that vast, inhuman presence pressing against their minds.
+
+Dirgin has no opinion of Mordrion, the Dwarf Father. Mordrion's clergy sometimes speak of enlightening primitive Dirgin-worshipers, but Stonekeepers find this laughable—Mordrion has existed for a few thousand years while Dirgin has been stone for two billion. The other elemental Old Gods—Pyrantor, Iquinias, and Vuleala—exist without cooperation or conflict with Dirgin. Each is too alien, too vast, to truly interact in meaningful ways. Their elemental planes touch at boundaries where strange hybrid phenomena occur: steam vents where water meets fire, dust storms where earth meets air. Of all entities, only Mau the Oracle seems to truly comprehend Dirgin's nature. Ancient texts suggest they formed an accord two billion years ago, though its terms remain unknown. Asti the Draconic Healer is the only other Old God who actively interacts with mortals in comprehensible ways. Some scholars theorize that Asti and Dirgin worked together to establish ley-lines, though Stonekeepers neither confirm nor deny this. As for younger deities, Dirgin notices them no more than a mountain notices birds nesting on its slopes. They will pass; the stone remains.
+
+Dirgin's faithful are few but devoted. Traditionalist dwarven holds deep in the Stonetooth Mountains and beneath the Ironpeak Range still maintain the old ways, honoring Dirgin alongside or instead of Mordrion. Gnome communities in cavern systems often propitiate Dirgin when tunneling, seeing no contradiction between Rivoleen's innovation and respecting the ancient stone. Those who explore ancient ruins or forgotten depths sometimes offer prayers to Dirgin, not out of faith but pragmatic fear of cave-ins. Sorcerers and wizards who specialize in earth magic often study at Dirgin's shrines, learning to sense stone as the Stone Father does. The **Cult of the Fundament** represents a mysterious group of Stonekeepers who dwell permanently in The Fundament caverns, claiming to be translating Dirgin's slow speech carved in geological strata. Their prophecies are cryptic but occasionally prove accurate, offering predictions of volcanic eruptions, ore discoveries, and tectonic events decades in advance.
